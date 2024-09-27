@@ -6,6 +6,11 @@ This repository provides the QuIC-360° dataset, a query-based image captioning 
 QuIC-360° is the first dataset that includes captions annotated based on textual scene queries to describe diverse contexts of 360° images. While existing image captioning datasets are based on images with limited field-of-view, 360° images capture the entire visible context of scenes, offering richer information.
 This dataset can be used to develop systems that generate textual descriptions aligned with user interests and relevant contexts from 360° images.
 
+## Availability
+
+You can use the QuIC-360° dataset via huggingface datasets library.
+The dataset is available at [Silviase/QuIC-360](https://huggingface.co/datasets/Silviase/QuIC-360).
+
 ## Dataset Details
 
 ### Fundamental Information
